@@ -9,5 +9,9 @@ public static void main(String[] args) {
 	}else {
 		System.out.println("They are not equal");
 	}
+
+	public static void getNum(int a ,int b){
+	System.out.println(a+b);	
+	}
 }
 }
